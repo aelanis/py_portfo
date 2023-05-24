@@ -1,2 +1,2 @@
 # py_portfo
-Portfolio for my new Python skills.
+Portfolio site for my new Python skills.
